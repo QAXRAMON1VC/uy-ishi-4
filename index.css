@@ -1,0 +1,390 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    max-width: 1600px;
+    padding: 50px 50px;
+}
+.navbar{
+    
+    max-width: 1296px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-li{
+   font-family: sans-serif;
+font-family: HK Grotesk;
+font-size: 16px;
+font-weight: 600;
+line-height: 24px;
+text-align: left;
+color: #fff;
+text-decoration: none;
+list-style: none;
+
+}
+.nav-ul{
+    display: flex;
+    gap: 60px;
+}
+.nav-logo{
+    display: flex;
+    gap: 70px;
+}
+.nav-login{
+    styleName: Semi bold/16;
+font-family: HK Grotesk;
+font-size: 16px;
+font-weight: 600;
+line-height: 24px;
+text-align: right;
+color: #fff;
+}
+.navbar-btn{
+    color: #fff;
+    background-color: 
+    #FD4C5C;
+    padding: 10px 25px;
+    border: none;
+
+
+}
+.nav-btn{
+    display: flex;
+    gap: 50px;
+}
+.barnery{
+  
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.bar-h2{
+styleName: Semi bold/72;
+font-family: HK Grotesk;
+font-size: 72px;
+font-weight: 700;
+line-height: 79.2px;
+letter-spacing: -0.5px;
+text-align: left;
+color: #fff;
+width: 636px;
+height: 238px;
+top: 189px;
+left: 151px;
+gap: 0px;
+opacity: 0px;
+
+}
+.bar-text{
+    color: #fff;
+styleName: Regular/16;
+font-family: HK Grotesk;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+text-align: left;
+width: 518px;
+height: 78px;
+top: 463px;
+left: 152px;
+gap: 0px;
+opacity: 0.8px;
+
+}
+.nav-wreper{
+    background-image: url(./images/Group\ 352.png);
+}
+
+.logo{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 50px;
+}
+.box-h2{
+styleName: Bold/48;
+font-family: HK Grotesk;
+font-size: 48px;
+font-weight: 700;
+line-height: 57.6px;
+letter-spacing: -0.5px;
+text-align: center;
+color: 
+#000B33;
+width: 677px;
+height: 116px;
+top: 1222px;
+left: 462px;
+gap: 0px;
+opacity: 0px;
+
+}
+.box-p{
+styleName: Regular/16;
+font-family: HK Grotesk;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+text-align: center;
+width: 426px;
+height: 52px;
+top: 1353px;
+left: 588px;
+gap: 0px;
+opacity: 0.7px;
+color: #000B33;
+margin-left: 130px;
+}
+.box{
+    padding: 50px 320px;
+    margin-top: 100px;
+}
+.box1-b{
+styleName: Bold/20;
+font-family: HK Grotesk;
+font-size: 20px;
+font-weight: 700;
+line-height: 26px;
+text-align: left;
+width: 182px;
+height: 26px;
+top: 1598px;
+left: 152px;
+gap: 0px;
+opacity: 0px;
+color: 
+#000B33;
+}
+.box1-p{
+    font-family: HK Grotesk;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+text-align: left;
+width: 306px;
+height: 78px;
+top: 1639px;
+left: 152px;
+gap: 0px;
+opacity: 0.7px;
+color: #000B33;
+}
+.box1{
+    display: flex;
+    justify-content: space-around;
+}
+.box2-h2{
+    width: 486px;
+    height: 116px;
+    top: 2110px;
+    left: 152px;
+    gap: 0px;
+    opacity: 0px;
+styleName: Bold/48;
+font-family: HK Grotesk;
+font-size: 48px;
+font-weight: 700;
+line-height: 57.6px;
+letter-spacing: -0.5px;
+text-align: left;
+color: 
+#000B33;
+}
+.box2-p{
+styleName: Regular/16;
+font-family: HK Grotesk;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+text-align: left;
+width: 416px;
+height: 104px;
+top: 2241px;
+left: 152px;
+gap: 0px;
+opacity: 0.8px;
+
+}
+.box2{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 150px ;
+}
+.box3-h3{
+styleName: Bold/48;
+font-family: HK Grotesk;
+font-size: 48px;
+font-weight: 700;
+line-height: 57.6px;
+letter-spacing: -0.5px;
+text-align: left;
+width: 416px;
+height: 116px;
+top: 2789px;
+left: 922px;
+gap: 0px;
+opacity: 0px;
+color: #000B33;
+
+}
+.box3-p{
+styleName: Regular/16;
+font-family: HK Grotesk;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+text-align: left;
+width: 416px;
+height: 52px;
+top: 2920px;
+left: 922px;
+gap: 0px;
+opacity: 0.7px;
+color: #000B33;
+}
+.card-wrep-h3{
+styleName: Bold/20;
+font-family: HK Grotesk;
+font-size: 20px;
+font-weight: 700;
+line-height: 26px;
+text-align: left;
+width: 185px;
+height: 26px;
+top: 3026px;
+left: 1032px;
+gap: 0px;
+opacity: 0px;
+color: #000B33;
+} 
+.card-wrep-p{
+styleName: Regular/16;
+font-family: HK Grotesk;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+text-align: left;
+width: 306px;
+height: 52px;
+top: 3062px;
+left: 1032px;
+gap: 0px;
+opacity: 0.7px;
+color: #000B33;
+}
+.card-wrep{
+    display: flex;
+    gap: 30px;
+}
+.box3{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 100px;
+}
+.box4-h3{
+styleName: Bold/48;
+font-family: HK Grotesk;
+font-size: 48px;
+font-weight: 700;
+line-height: 57.6px;
+letter-spacing: -0.5px;
+text-align: center;
+width: 416px;
+height: 58px;
+top: 3651px;
+left: 592px;
+gap: 0px;
+opacity: 0px;
+color: #000B33;
+}
+.box4-p{
+styleName: Regular/16;
+font-family: HK Grotesk;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+text-align: center;
+width: 416px;
+height: 52px;
+top: 3724px;
+left: 592px;
+gap: 0px;
+opacity: 0.7px;
+color: #000B33;
+}
+.box4{
+    padding: 50px 500px;
+}
+.box5-h4{
+styleName: Semi bold/20;
+font-family: HK Grotesk;
+font-size: 20px;
+font-weight: 600;
+line-height: 26px;
+text-align: left;
+width: 188px;
+height: 26px;
+top: 4172px;
+left: 185px;
+gap: 0px;
+opacity: 0px;
+color: #000B33;
+}
+.box5-p{
+    styleName: Regular/16;
+    font-family: HK Grotesk;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+    width: 93px;
+    height: 26px;
+    top: 4203px;
+    left: 185px;
+    gap: 0px;
+    opacity: 0.7px;
+    color: #000B33;
+}
+.card2{
+    box-shadow: rgba(0, 0, 0, 0.05) 0px 0px 0px 1px;
+    padding: 18px;
+    max-width: 300px;
+}
+.box5{
+    padding: 50px 0px;
+    display: flex;
+    justify-content: space-around;
+}
+.num-h4{
+styleName: Semi bold/72;
+font-family: HK Grotesk;
+font-size: 72px;
+font-weight: 700;
+line-height: 79.2px;
+letter-spacing: -0.5px;
+text-align: center;
+width: 149px;
+height: 80px;
+top: 4470px;
+left: 235px;
+gap: 0px;
+opacity: 0px;
+color: #2B59FF;
+}
+.box6{
+    
+    width: 132px;
+}
+.num-p{
+    text-align: center;
+}
+.num{
+    display: flex;
+    justify-content: space-around;
+}
